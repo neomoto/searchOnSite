@@ -1,0 +1,8 @@
+{
+    "extName": {
+        "message": "Поиск по сайту в Google или Yandex"
+    },
+    "extDescription": {
+        "message": "Расширение добавляет иконку для поиска по текущему сайту в Google или Yandex"
+    }
+}
