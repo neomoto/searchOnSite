@@ -3,7 +3,7 @@
     "name": "__MSG_extName__",
     "description": "__MSG_extDescription__",
     "default_locale": "en_US",
-    "version": "1.0",
+    "version": "1.0.1",
     "background": {"scripts": ["background.js"]},
     "icons": {
         "16": "./images/user_icon_template_16.png",
@@ -13,7 +13,7 @@
     "permissions": ["tabs", "storage"],
     "page_action": {
         "default_icon": "./images/user_icon_template_19.png",
-        "default_title": "Search within the site",
+        "default_title": "__MSG_extName__",
         "default_popup": "popup.html"
     }
 }
