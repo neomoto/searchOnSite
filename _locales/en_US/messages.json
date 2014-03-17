@@ -4,5 +4,20 @@
     },
     "extDescription": {
         "message": "This extension let you search on site with Google or Yandex search"
+    },
+    "optTitle": {
+        "message" : "Settings"
+    },
+    "optAdd": {
+        "message" : "Add"
+    },
+    "optSave": {
+        "message" : "Save settings"
+    },
+    "optHelp": {
+        "message" : "Replace search string with %s and use %i for current site url"
+    },
+    "optAddElementTitle": {
+        "message" : "Add new search system"
     }
 }

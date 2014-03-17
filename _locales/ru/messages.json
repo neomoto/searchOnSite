@@ -4,5 +4,20 @@
     },
     "extDescription": {
         "message": "Расширение добавляет иконку для поиска по текущему сайту в Google или Yandex"
+    },
+    "optTitle": {
+        "message" : "Настройки"
+    },
+    "optAdd": {
+        "message" : "Добавить"
+    },
+    "optSave": {
+        "message" : "Сохранить настройки"
+    },
+    "optHelp": {
+        "message" : "Используйте %s для обозначения искомой фразы и %i для url текущего сайта"
+    },
+    "optAddElementTitle": {
+        "message" : "Добавить новую поисковую систему"
     }
 }

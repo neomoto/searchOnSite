@@ -16,3 +16,45 @@ input {
     height: 18px;
     cursor: pointer;
 }
+
+
+/* options page */
+.options-page {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 50px 0;
+    background: #fefefe;
+}
+.options-list {
+    padding-bottom: 30px;
+    border-bottom: 1px dashed #333;
+    margin-bottom: 50px;
+}
+.options-new .options-row {
+    margin-bottom: 20px;
+}
+.options-new .options-row button {
+    display: none;
+}
+.options-row input {
+    font-size: 18px;
+    width: 15%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.options-row input.required {
+    box-shadow:0px 0px 10px 0px red;
+}
+.options-row input + input {
+    width: 80%;
+    margin-left: 10px;
+}
+.options-row button {
+    border: 0;
+    background: 0;
+    cursor: pointer;
+    outline: none;
+}
+.options-row button:hover {
+    background: #eee;
+}
